@@ -221,6 +221,24 @@
 						}
 					],
 					"updated": "20-11-2018"
+				},
+				{
+					"prettyName": "MyRADIO",
+					"icon": "fa-lightbulb-o",
+					"name": "myradio",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/music_service/myradio/myradio.zip",
+					"license": "ISC",
+					"description": "Custom Web page for easy access to my favorite web Radios.",
+					"details": "First myRadio own plugin by LLP. Test purpose only.",
+					"author": "LudoGH",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "30-11-2018"
 				}
 			]
 		},
